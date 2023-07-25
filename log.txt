@@ -1,0 +1,5 @@
+2023-07-25T11:05:03.618+02:00  INFO 23468 --- [main] riccardogulin.u5d2.U5d2Application       : Starting U5d2Application using Java 17.0.5 with PID 23468 (D:\Work\Epicode\2023\IT\JavaMaster\Lectures\u5d2\target\classes started by ricca in D:\Work\Epicode\2023\IT\JavaMaster\Lectures\u5d2)
+2023-07-25T11:05:03.620+02:00  INFO 23468 --- [main] riccardogulin.u5d2.U5d2Application       : No active profile set, falling back to 1 default profile: "default"
+2023-07-25T11:05:03.980+02:00  INFO 23468 --- [main] riccardogulin.u5d2.U5d2Application       : Started U5d2Application in 0.665 seconds (process running for 0.925)
+2023-07-25T11:05:03.982+02:00  INFO 23468 --- [main] riccardogulin.u5d2.HelloWorldRunner      : Hello World
+2023-07-25T11:05:03.982+02:00  INFO 23468 --- [main] riccardogulin.u5d2.AnotherRunner         : Another Runner
